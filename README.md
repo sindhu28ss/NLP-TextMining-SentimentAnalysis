@@ -41,8 +41,32 @@ The dataset contains 30,000 reviews from McDonald’s locations across the U.S.,
 
 The analysis showed that over half of the reviews carried a positive sentiment, even when paired with lower star ratings. This highlights a key insight: customer sentiment doesn't always align with numerical ratings. Sentiment analysis uncovers this nuance, offering deeper context for understanding and acting on customer feedback.
 
-- Performed correlation analysis to explore relationships between socio-economic factors (e.g., population density, income) and customer ratings.
+**Statistical & Visual Analysis:**
+To deepen the analysis, I explored how socio-economic factors like population and median household income relate to customer ratings. This helped uncover patterns in customer sentiment influenced by location and demographics, providing valuable context for strategic insights.
 
-## Results
-The analysis yielded insightful results that shed light on various aspects of customer sentiments, socio-economic correlations, and geographical trends within the dataset. We utilized various visualization techniques to present our findings. The following visual representations encapsulate our key insights:
+**Income vs Star Ratings:**
+The box plot below highlights a clear trend — areas with higher median household incomes tend to give higher star ratings. This insight helps understand how economic factors influence customer satisfaction and can inform targeted business strategies.
+
+<p align="left">
+  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/Ratingvsincome.png" width="425">
+  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/map.png" width="500">
+</p>
+
+**Geospatial View of Ratings & Income:**
+This map visualizes store locations across the U.S., with point size representing review count and color intensity reflecting median household income. It provides a geographic lens into where reviews are concentrated and how income levels vary across regions.
+
+
+## Recommendations
+
+Based on the insights drawn from sentiment analysis, socio-economic correlations, and geographic patterns, the following recommendations can be made to enhance customer satisfaction and support strategic decision-making:
+
+- **Targeted Service Improvements:** Locations with a high percentage of 1-star reviews, especially in lower-income areas, may benefit from operational improvements such as faster service, better order accuracy, or enhanced staff training.
+
+- **Localized Marketing Strategies:** Geographic and socio-economic variations in sentiment suggest that marketing campaigns should be tailored to specific regions. Stores in suburban or moderately populated areas, where feedback volume is higher, present opportunities for hyper-local engagement.
+
+- **Customer Engagement Programs:** Encourage satisfied customers to leave reviews, particularly in high-income areas where positive sentiment aligns with higher ratings. This can help balance overall public perception and boost reputation.
+
+- **Resource Allocation:** Insights from population vs. rating trends indicate that stores in less populated areas still receive significant feedback. These locations should not be overlooked in strategic planning or resource distribution.
+
+- **Feedback-Driven Innovation:** Common themes found in both positive and negative reviews (e.g., food quality, service speed) should be used to guide continuous product and service improvements, ensuring the brand evolves with customer expectations.
 
