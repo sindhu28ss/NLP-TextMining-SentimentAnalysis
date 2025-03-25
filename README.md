@@ -35,8 +35,8 @@ The [dataset](https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blo
 **Sentiment Analysis:**
 - Used NLTK’s `SentimentIntensityAnalyzer` to classify reviews into positive, negative, or neutral sentiments for deeper insight into customer feedback.
 <p align="left">
-  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/pos%20words.png" width="500">
-  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/neg%20words.png" width="500">
+  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/pos%20words.png" width="400">
+  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/neg%20words.png" width="400">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ To deepen the analysis, I explored how socio-economic factors like population an
 The box plot below highlights a clear trend — areas with higher median household incomes tend to give higher star ratings. This insight helps understand how economic factors influence customer satisfaction and can inform targeted business strategies.
 
 <p align="left">
-  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/Ratingvsincome.png" width="400">
+  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/Ratingvsincome.png" width="300">
   <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/map.png" width="500">
 </p>
 
