@@ -7,7 +7,7 @@ The analysis of customer reviews is crucial for businesses aiming to understand 
 </p>
 
 ## Data Description
-The dataset contains 30,000 reviews from McDonald’s locations across the U.S., with 14 columns covering customer feedback, ratings, store locations
+The [dataset](https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/McDonald_s_Reviews_data.csv) contains 30,000 reviews from McDonald’s locations across the U.S., with 14 columns covering customer feedback, ratings, and store locations.
 
 ## Research Questions
 - How do socio-economic factors, sentiment analysis, and geographic distribution influence customer reviews and ratings for McDonald's locations?
