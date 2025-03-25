@@ -40,7 +40,7 @@ The [dataset](https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blo
 </p>
 
 <p align="center">
-  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/sentdist.png" width="500">
+  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/sentdist.png" width="400">
 </p>
 
 The analysis showed that over half of the reviews carried a positive sentiment, even when paired with lower star ratings. This highlights a key insight: customer sentiment doesn't always align with numerical ratings. Sentiment analysis uncovers this nuance, offering deeper context for understanding and acting on customer feedback.
@@ -52,7 +52,7 @@ To deepen the analysis, I explored how socio-economic factors like population an
 The box plot below highlights a clear trend — areas with higher median household incomes tend to give higher star ratings. This insight helps understand how economic factors influence customer satisfaction and can inform targeted business strategies.
 
 <p align="left">
-  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/Ratingvsincome.png" width="300">
+  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/Ratingvsincome.png" width="350">
   <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/map.png" width="400">
 </p>
 
