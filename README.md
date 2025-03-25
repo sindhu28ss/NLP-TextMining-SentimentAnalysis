@@ -2,6 +2,10 @@
 
 The analysis of customer reviews is crucial for businesses aiming to understand customer sentiments, identify trends, and make informed strategic decisions. This project leverages advanced text mining techniques to analyze a dataset of reviews from McDonald’s, a leading global fast-food chain. By systematically categorizing customer feedback into sentiments, this study illuminates patterns that assist in enhancing marketing strategies and customer service practices, helping McDonald's adapt to market demands and improve customer satisfaction.
 
+<p align="center">
+  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/SentimentAnalysis_Review.png" width="500">
+</p>
+
 ## Data Description
 The dataset contains 30,000 reviews from McDonald’s locations across the U.S., with 14 columns covering customer feedback, ratings, store locations
 
@@ -48,7 +52,7 @@ To deepen the analysis, I explored how socio-economic factors like population an
 The box plot below highlights a clear trend — areas with higher median household incomes tend to give higher star ratings. This insight helps understand how economic factors influence customer satisfaction and can inform targeted business strategies.
 
 <p align="left">
-  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/Ratingvsincome.png" width="425">
+  <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/Ratingvsincome.png" width="400">
   <img src="https://github.com/sindhu28ss/NLP-TextMining-SentimentAnalysis/blob/main/images/map.png" width="500">
 </p>
 
